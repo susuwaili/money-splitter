@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "money-splitter",
+    "slug": "money-splitter",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.susuwaili.moneysplitter"
+    }
+  }
+}
