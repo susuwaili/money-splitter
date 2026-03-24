@@ -1,8 +1,0 @@
-{
-  "expo": {
-    "name": "Money Splitter",
-    "slug": "money-splitter",
-    "version": "1.0.0",
-    "platforms": ["android"]
-  }
-}
